@@ -34,14 +34,6 @@ Various pre-processing techniques are applied to the data before clustering:
 6. **Normalization + Transformation:** Combining normalization and transformation techniques.
 7. **Normalization + Transformation + PCA:** Combining normalization, transformation, and PCA techniques.
 
-## Repository Structure
-
-- **`notebooks/`:** Jupyter notebooks containing the code for each clustering technique and pre-processing method.
-- **`data/`:** Folder containing the Elections dataset.
-- **`results/`:** Folder containing the results and visualizations.
-- **`README.md`:** This file providing an overview of the assignment.
-
-
 
 ## Results
 
