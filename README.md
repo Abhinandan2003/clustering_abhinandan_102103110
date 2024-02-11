@@ -55,7 +55,7 @@ Various pre-processing techniques are applied to the data before clustering:
 
 3. Birch Clustering
 
-   ![Birch Image](birch.png)
+   ![Birch Image](Birch_image.png)
 
 ## Conclusion
 
